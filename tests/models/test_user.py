@@ -2,5 +2,5 @@
 # -*- coding: utf-8 -*-
 
 
-class User:
-    id = None
+def test_user_must_true():
+    assert True
