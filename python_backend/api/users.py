@@ -17,3 +17,7 @@ def get_users():
                       '{name: Duponde, id=4, age=29},'
                       '{name: Bruninnha, id=3, age=32},'
                       ']}'), 200
+
+
+def return_true():
+    return True

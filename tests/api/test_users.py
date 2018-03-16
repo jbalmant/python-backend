@@ -4,5 +4,4 @@ from python_backend.api import users
 
 
 def test_users_must_true():
-    assert True
-
+    assert users.return_true()
